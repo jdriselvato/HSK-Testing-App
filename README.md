@@ -11,3 +11,9 @@ It has a couple of cards, but still needs a decent amount of vocabulary.
 - Give you an option to show the definition
 
 No grading or anything fancy. Feel free to extend it yourself. 
+
+# Screenshots
+
+![screenshot 1](https://raw.github.com/jdriselvato/HSK-Testing-App/master/github/screen_1.png)
+
+![screenshot 2](https://raw.github.com/jdriselvato/HSK-Testing-App/master/github/screen_2.png)
